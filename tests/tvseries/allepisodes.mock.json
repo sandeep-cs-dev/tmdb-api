@@ -1,0 +1,492 @@
+[
+    {
+      "episodeNumber":1,
+      "averageVotes":4.9,
+      "episodeName":"Chronicles Of Cisco (1)"
+    },
+    {
+      "episodeNumber":2,
+      "averageVotes":4.7,
+      "episodeName":"Chronicles Of Cisco (2)"
+    },
+    {
+      "episodeNumber":3,
+      "averageVotes":4.4,
+      "episodeName":"Chronicles Of Cisco (3)"
+    },
+    {
+      "episodeNumber":4,
+      "averageVotes":5.6,
+      "episodeName":"Chronicles Of Cisco (4)"
+    },
+    {
+      "episodeNumber":5,
+      "averageVotes":5,
+      "episodeName":"Crisis on Infinite Earths - Aftermath (2)"
+    },
+    {
+      "episodeNumber":6,
+      "averageVotes":0,
+      "episodeName":"Stretched Scene (1)"
+    },
+    {
+      "episodeNumber":7,
+      "averageVotes":0,
+      "episodeName":"Stretched Scene (2)"
+    },
+    {
+      "episodeNumber":8,
+      "averageVotes":0,
+      "episodeName":"Stretched Scene (3)"
+    },
+    {
+      "episodeNumber":1,
+      "averageVotes":6.1,
+      "episodeName":"Pilot"
+    },
+    {
+      "episodeNumber":2,
+      "averageVotes":6.5,
+      "episodeName":"Fastest Man Alive"
+    },
+    {
+      "episodeNumber":3,
+      "averageVotes":6.7,
+      "episodeName":"Things You Can't Outrun"
+    },
+    {
+      "episodeNumber":4,
+      "averageVotes":7,
+      "episodeName":"Going Rogue"
+    },
+    {
+      "episodeNumber":5,
+      "averageVotes":7.1,
+      "episodeName":"Plastique"
+    },
+    {
+      "episodeNumber":6,
+      "averageVotes":6.9,
+      "episodeName":"The Flash is Born"
+    },
+    {
+      "episodeNumber":7,
+      "averageVotes":7.2,
+      "episodeName":"Power Outage"
+    },
+    {
+      "episodeNumber":8,
+      "averageVotes":7.9,
+      "episodeName":"Flash vs. Arrow (I)"
+    },
+    {
+      "episodeNumber":9,
+      "averageVotes":7.6,
+      "episodeName":"The Man in the Yellow Suit"
+    },
+    {
+      "episodeNumber":10,
+      "averageVotes":6.9,
+      "episodeName":"Revenge of the Rogues"
+    },
+    {
+      "episodeNumber":11,
+      "averageVotes":6.8,
+      "episodeName":"The Sound and the Fury"
+    },
+    {
+      "episodeNumber":12,
+      "averageVotes":6.9,
+      "episodeName":"Crazy for You"
+    },
+    {
+      "episodeNumber":13,
+      "averageVotes":7.2,
+      "episodeName":"The Nuclear Man"
+    },
+    {
+      "episodeNumber":14,
+      "averageVotes":7.3,
+      "episodeName":"Fallout"
+    },
+    {
+      "episodeNumber":15,
+      "averageVotes":8.5,
+      "episodeName":"Out of Time"
+    },
+    {
+      "episodeNumber":16,
+      "averageVotes":6.9,
+      "episodeName":"Rogue Time"
+    },
+    {
+      "episodeNumber":17,
+      "averageVotes":7.8,
+      "episodeName":"Tricksters"
+    },
+    {
+      "episodeNumber":18,
+      "averageVotes":7.1,
+      "episodeName":"All-Star Team Up"
+    },
+    {
+      "episodeNumber":19,
+      "averageVotes":7.8,
+      "episodeName":"Who Is Harrison Wells?"
+    },
+    {
+      "episodeNumber":20,
+      "averageVotes":7.9,
+      "episodeName":"The Trap"
+    },
+    {
+      "episodeNumber":21,
+      "averageVotes":7,
+      "episodeName":"Grodd Lives"
+    },
+    {
+      "episodeNumber":22,
+      "averageVotes":7.9,
+      "episodeName":"Rogue Air"
+    },
+    {
+      "episodeNumber":23,
+      "averageVotes":8.2,
+      "episodeName":"Fast Enough"
+    },
+    {
+      "episodeNumber":1,
+      "averageVotes":6.5,
+      "episodeName":"The Man Who Saved Central City"
+    },
+    {
+      "episodeNumber":2,
+      "averageVotes":7.1,
+      "episodeName":"Flash of Two Worlds"
+    },
+    {
+      "episodeNumber":3,
+      "averageVotes":7,
+      "episodeName":"Family of Rogues"
+    },
+    {
+      "episodeNumber":4,
+      "averageVotes":6.8,
+      "episodeName":"The Fury of Firestorm"
+    },
+    {
+      "episodeNumber":5,
+      "averageVotes":7.5,
+      "episodeName":"The Darkness and the Light"
+    },
+    {
+      "episodeNumber":6,
+      "averageVotes":8,
+      "episodeName":"Enter Zoom"
+    },
+    {
+      "episodeNumber":7,
+      "averageVotes":7.1,
+      "episodeName":"Gorilla Warfare"
+    },
+    {
+      "episodeNumber":8,
+      "averageVotes":7.8,
+      "episodeName":"Legends of Today (I)"
+    },
+    {
+      "episodeNumber":9,
+      "averageVotes":7.4,
+      "episodeName":"Running to Stand Still"
+    },
+    {
+      "episodeNumber":10,
+      "averageVotes":7.3,
+      "episodeName":"Potential Energy"
+    },
+    {
+      "episodeNumber":11,
+      "averageVotes":7.5,
+      "episodeName":"The Reverse-Flash Returns"
+    },
+    {
+      "episodeNumber":12,
+      "averageVotes":7.2,
+      "episodeName":"Fast Lane"
+    },
+    {
+      "episodeNumber":13,
+      "averageVotes":7.9,
+      "episodeName":"Welcome to Earth-2"
+    },
+    {
+      "episodeNumber":14,
+      "averageVotes":7.6,
+      "episodeName":"Escape from Earth-2"
+    },
+    {
+      "episodeNumber":15,
+      "averageVotes":7.4,
+      "episodeName":"King Shark"
+    },
+    {
+      "episodeNumber":16,
+      "averageVotes":6.7,
+      "episodeName":"Trajectory"
+    },
+    {
+      "episodeNumber":17,
+      "averageVotes":7.4,
+      "episodeName":"Flash Back"
+    },
+    {
+      "episodeNumber":18,
+      "averageVotes":7.2,
+      "episodeName":"Versus Zoom"
+    },
+    {
+      "episodeNumber":19,
+      "averageVotes":6.8,
+      "episodeName":"Back to Normal"
+    },
+    {
+      "episodeNumber":20,
+      "averageVotes":7.4,
+      "episodeName":"Rupture"
+    },
+    {
+      "episodeNumber":21,
+      "averageVotes":7.6,
+      "episodeName":"The Runaway Dinosaur"
+    },
+    {
+      "episodeNumber":22,
+      "averageVotes":7.7,
+      "episodeName":"Invincible"
+    },
+    {
+      "episodeNumber":23,
+      "averageVotes":7.4,
+      "episodeName":"The Race of His Life"
+    },
+    {
+      "episodeNumber":1,
+      "averageVotes":7.1,
+      "episodeName":"Flashpoint"
+    },
+    {
+      "episodeNumber":2,
+      "averageVotes":6.5,
+      "episodeName":"Paradox"
+    },
+    {
+      "episodeNumber":3,
+      "averageVotes":7.5,
+      "episodeName":"Magenta"
+    },
+    {
+      "episodeNumber":4,
+      "averageVotes":7.4,
+      "episodeName":"The New Rogues"
+    },
+    {
+      "episodeNumber":5,
+      "averageVotes":7.6,
+      "episodeName":"Monster"
+    },
+    {
+      "episodeNumber":6,
+      "averageVotes":7.1,
+      "episodeName":"Shade"
+    },
+    {
+      "episodeNumber":7,
+      "averageVotes":7.5,
+      "episodeName":"Killer Frost"
+    },
+    {
+      "episodeNumber":8,
+      "averageVotes":7.4,
+      "episodeName":"Invasion! (II)"
+    },
+    {
+      "episodeNumber":9,
+      "averageVotes":7.4,
+      "episodeName":"The Present"
+    },
+    {
+      "episodeNumber":10,
+      "averageVotes":7.6,
+      "episodeName":"Borrowing Problems From The Future"
+    },
+    {
+      "episodeNumber":11,
+      "averageVotes":7.3,
+      "episodeName":"Dead or Alive"
+    },
+    {
+      "episodeNumber":12,
+      "averageVotes":6.7,
+      "episodeName":"Untouchable"
+    },
+    {
+      "episodeNumber":13,
+      "averageVotes":7.1,
+      "episodeName":"Attack on Gorilla City (1)"
+    },
+    {
+      "episodeNumber":14,
+      "averageVotes":7.1,
+      "episodeName":"Attack on Central City (2)"
+    },
+    {
+      "episodeNumber":15,
+      "averageVotes":7.8,
+      "episodeName":"The Wrath of Savitar"
+    },
+    {
+      "episodeNumber":16,
+      "averageVotes":7.2,
+      "episodeName":"Into the Speed Force"
+    },
+    {
+      "episodeNumber":17,
+      "averageVotes":7.2,
+      "episodeName":"Duet (II)"
+    },
+    {
+      "episodeNumber":18,
+      "averageVotes":6.5,
+      "episodeName":"Abra Kadabra"
+    },
+    {
+      "episodeNumber":19,
+      "averageVotes":7.6,
+      "episodeName":"The Once and Future Flash"
+    },
+    {
+      "episodeNumber":20,
+      "averageVotes":8.2,
+      "episodeName":"I Know Who You Are"
+    },
+    {
+      "episodeNumber":21,
+      "averageVotes":7.5,
+      "episodeName":"Cause and Effect"
+    },
+    {
+      "episodeNumber":22,
+      "averageVotes":8.3,
+      "episodeName":"Infantino Street"
+    },
+    {
+      "episodeNumber":23,
+      "averageVotes":6.8,
+      "episodeName":"Finish Line"
+    },
+    {
+      "episodeNumber":1,
+      "averageVotes":6.7,
+      "episodeName":"The Flash Reborn"
+    },
+    {
+      "episodeNumber":2,
+      "averageVotes":6.5,
+      "episodeName":"Mixed Signals"
+    },
+    {
+      "episodeNumber":3,
+      "averageVotes":7,
+      "episodeName":"Luck Be a Lady"
+    },
+    {
+      "episodeNumber":4,
+      "averageVotes":8.2,
+      "episodeName":"Elongated Journey Into Night"
+    },
+    {
+      "episodeNumber":5,
+      "averageVotes":6.2,
+      "episodeName":"Girls Night Out"
+    },
+    {
+      "episodeNumber":6,
+      "averageVotes":7.2,
+      "episodeName":"When Harry Met Harry..."
+    },
+    {
+      "episodeNumber":7,
+      "averageVotes":8.6,
+      "episodeName":"Therefore I Am"
+    },
+    {
+      "episodeNumber":8,
+      "averageVotes":7.3,
+      "episodeName":"Crisis on Earth-X (III)"
+    },
+    {
+      "episodeNumber":9,
+      "averageVotes":8.2,
+      "episodeName":"Don't Run"
+    },
+    {
+      "episodeNumber":10,
+      "averageVotes":7.6,
+      "episodeName":"The Trial of The Flash"
+    },
+    {
+      "episodeNumber":11,
+      "averageVotes":7,
+      "episodeName":"The Elongated Knight Rises"
+    },
+    {
+      "episodeNumber":12,
+      "averageVotes":7.8,
+      "episodeName":"Honey, I Shrunk Team Flash"
+    },
+    {
+      "episodeNumber":13,
+      "averageVotes":6.8,
+      "episodeName":"True Colors"
+    },
+    {
+      "episodeNumber":14,
+      "averageVotes":7.6,
+      "episodeName":"Subject 9"
+    },
+    {
+      "episodeNumber":15,
+      "averageVotes":8.5,
+      "episodeName":"Enter Flashtime"
+    },
+    {
+      "episodeNumber":16,
+      "averageVotes":6.5,
+      "episodeName":"Run, Iris, Run"
+    },
+    {
+      "episodeNumber":17,
+      "averageVotes":7.6,
+      "episodeName":"Null and Annoyed"
+    },
+    {
+      "episodeNumber":18,
+      "averageVotes":7.4,
+      "episodeName":"Lose Yourself"
+    },
+    {
+      "episodeNumber":19,
+      "averageVotes":7.2,
+      "episodeName":"Fury Rogue"
+    },
+    {
+      "episodeNumber":20,
+      "averageVotes":7.2,
+      "episodeName":"Therefore She Is"
+    },
+    {
+      "episodeNumber":21,
+      "averageVotes":7.4,
+      "episodeName":"Harry and the Harrisons"
+    }
+  ]

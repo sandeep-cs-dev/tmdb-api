@@ -1,0 +1,24 @@
+{
+    "tvSeries": [
+        {
+            "seriesId": 46896,
+            "name": "The originals"
+        },
+        {
+            "seriesId": 60735,
+            "name": "The Flash"
+        },
+        {
+            "seriesId": 70523,
+            "name": "Dark"
+        },
+        {
+            "seriesId": 19885,
+            "name": "Sherlock"
+        },
+        {
+            "seriesId": 1412,
+            "name": "Arrow"
+        }
+    ]
+}

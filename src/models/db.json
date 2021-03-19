@@ -1,0 +1,283 @@
+{
+  "tvSeries": [
+    {
+      "seriesId": "60735",
+      "seriesName": "The Flash",
+      "popularity": 1475.844,
+      "seasons": [
+        {
+          "seasonNumber": 0,
+          "seasonId": 79954
+        },
+        {
+          "seasonNumber": 1,
+          "seasonId": 60523
+        },
+        {
+          "seasonNumber": 2,
+          "seasonId": 66922
+        },
+        {
+          "seasonNumber": 3,
+          "seasonId": 77888
+        },
+        {
+          "seasonNumber": 4,
+          "seasonId": 90247
+        },
+        {
+          "seasonNumber": 5,
+          "seasonId": 104777
+        },
+        {
+          "seasonNumber": 6,
+          "seasonId": 126171
+        },
+        {
+          "seasonNumber": 7,
+          "seasonId": 159996
+        }
+      ],
+      "topTwentyEpisodes": [
+        {
+          "episodeNumber": 2,
+          "averageVotes": 10,
+          "episodeName": "The Speed of Thought"
+        },
+        {
+          "episodeNumber": 8,
+          "averageVotes": 9.2,
+          "episodeName": "What's Past Is Prologue"
+        },
+        {
+          "episodeNumber": 18,
+          "averageVotes": 9,
+          "episodeName": "Godspeed"
+        },
+        {
+          "episodeNumber": 1,
+          "averageVotes": 9,
+          "episodeName": "All's Wells That Ends Wells"
+        },
+        {
+          "episodeNumber": 9,
+          "averageVotes": 8.8,
+          "episodeName": "Elseworlds (I)"
+        },
+        {
+          "episodeNumber": 7,
+          "averageVotes": 8.6,
+          "episodeName": "Therefore I Am"
+        },
+        {
+          "episodeNumber": 15,
+          "averageVotes": 8.5,
+          "episodeName": "Out of Time"
+        },
+        {
+          "episodeNumber": 15,
+          "averageVotes": 8.5,
+          "episodeName": "Enter Flashtime"
+        },
+        {
+          "episodeNumber": 22,
+          "averageVotes": 8.3,
+          "episodeName": "Infantino Street"
+        },
+        {
+          "episodeNumber": 22,
+          "averageVotes": 8.3,
+          "episodeName": "Think Fast"
+        },
+        {
+          "episodeNumber": 23,
+          "averageVotes": 8.2,
+          "episodeName": "Fast Enough"
+        },
+        {
+          "episodeNumber": 20,
+          "averageVotes": 8.2,
+          "episodeName": "I Know Who You Are"
+        },
+        {
+          "episodeNumber": 4,
+          "averageVotes": 8.2,
+          "episodeName": "Elongated Journey Into Night"
+        },
+        {
+          "episodeNumber": 9,
+          "averageVotes": 8.2,
+          "episodeName": "Don't Run"
+        },
+        {
+          "episodeNumber": 6,
+          "averageVotes": 8,
+          "episodeName": "Enter Zoom"
+        },
+        {
+          "episodeNumber": 3,
+          "averageVotes": 8,
+          "episodeName": "The Death of Vibe"
+        },
+        {
+          "episodeNumber": 8,
+          "averageVotes": 7.9,
+          "episodeName": "Flash vs. Arrow (I)"
+        },
+        {
+          "episodeNumber": 20,
+          "averageVotes": 7.9,
+          "episodeName": "The Trap"
+        },
+        {
+          "episodeNumber": 22,
+          "averageVotes": 7.9,
+          "episodeName": "Rogue Air"
+        },
+        {
+          "episodeNumber": 13,
+          "averageVotes": 7.9,
+          "episodeName": "Welcome to Earth-2"
+        }
+      ]
+    },
+    {
+      "seriesId": "70523",
+      "seriesName": "Dark",
+      "popularity": 150.754,
+      "seasons": [
+        {
+          "seasonNumber": 0,
+          "seasonId": 101749
+        },
+        {
+          "seasonNumber": 1,
+          "seasonId": 85712
+        },
+        {
+          "seasonNumber": 2,
+          "seasonId": 124476
+        },
+        {
+          "seasonNumber": 3,
+          "seasonId": 151853
+        }
+      ],
+      "topTwentyEpisodes": [
+        {
+          "episodeNumber": 6,
+          "averageVotes": 9.3,
+          "episodeName": "Light and Shadow"
+        },
+        {
+          "episodeNumber": 4,
+          "averageVotes": 9.2,
+          "episodeName": "The Travelers"
+        },
+        {
+          "episodeNumber": 3,
+          "averageVotes": 9,
+          "episodeName": "Ghosts"
+        },
+        {
+          "episodeNumber": 5,
+          "averageVotes": 9,
+          "episodeName": "Lost and Found"
+        },
+        {
+          "episodeNumber": 8,
+          "averageVotes": 9,
+          "episodeName": "Endings and Beginnings"
+        },
+        {
+          "episodeNumber": 7,
+          "averageVotes": 8.8,
+          "episodeName": "The White Devil"
+        },
+        {
+          "episodeNumber": 4,
+          "averageVotes": 8.8,
+          "episodeName": "The Origin"
+        },
+        {
+          "episodeNumber": 7,
+          "averageVotes": 8.8,
+          "episodeName": "Between the Time"
+        },
+        {
+          "episodeNumber": 5,
+          "averageVotes": 8.7,
+          "episodeName": "Truths"
+        },
+        {
+          "episodeNumber": 1,
+          "averageVotes": 8.7,
+          "episodeName": "Deja-vu"
+        },
+        {
+          "episodeNumber": 8,
+          "averageVotes": 8.7,
+          "episodeName": "The Paradise"
+        },
+        {
+          "episodeNumber": 2,
+          "averageVotes": 8.6,
+          "episodeName": "Dark Matter"
+        },
+        {
+          "episodeNumber": 2,
+          "averageVotes": 8.6,
+          "episodeName": "The Survivors"
+        },
+        {
+          "episodeNumber": 6,
+          "averageVotes": 8.5,
+          "episodeName": "Sic Mundus Creatus Est"
+        },
+        {
+          "episodeNumber": 7,
+          "averageVotes": 8.5,
+          "episodeName": "Crossroads"
+        },
+        {
+          "episodeNumber": 8,
+          "averageVotes": 8.4,
+          "episodeName": "As You Sow, so You Shall Reap"
+        },
+        {
+          "episodeNumber": 3,
+          "averageVotes": 8.3,
+          "episodeName": "Past and Present"
+        },
+        {
+          "episodeNumber": 10,
+          "averageVotes": 8.2,
+          "episodeName": "Alpha and Omega"
+        },
+        {
+          "episodeNumber": 6,
+          "averageVotes": 8.2,
+          "episodeName": "An Endless Cycle"
+        },
+        {
+          "episodeNumber": 9,
+          "averageVotes": 8.1,
+          "episodeName": "Everything is Now"
+        }
+      ]
+    }
+  ],
+  "tvSeriesSeasons": [],
+  "analytics": [
+    {
+      "seriesId": "60735",
+      "seriesName": "The Flash",
+      "accessCount": 4
+    },
+    {
+      "seriesId": "70523",
+      "seriesName": "Dark",
+      "accessCount": 3
+    }
+  ]
+}
